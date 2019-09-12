@@ -11,6 +11,7 @@ gem 'sqlite3'
 gem 'puma', '~> 3.11'
 
 gem 'rack-cors'
+gem 'ffi', '1.9.8'
 
 gem 'active_model_serializers'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
